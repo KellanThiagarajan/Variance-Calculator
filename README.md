@@ -1,3 +1,6 @@
+# Motivation
+I'm learning javascript/html/css and this is a project to do common statistical analysis of a comma-seperated list of numbers.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
